@@ -1,7 +1,6 @@
-﻿# -Dartis-Caraft-Vanilla-Plus-Ultra-2-Curseforge
+﻿# -Dartis-Caraft-Karui-2-Curseforge
 
 **MODPACK NOTES:**
-*No Anime Included
 
 **1.12.2 Forge Based**
 
