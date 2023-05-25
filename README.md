@@ -26,5 +26,5 @@ QUESTBOOK NOTES:
 https://docs.google.com/document/d/1Trxhnyw1YMIfzWKwVbwnTVoKCf32DMWlmhCT_gAZfjw/edit?usp=share_link
  
 - Google Doc Format.
-- Questbook was written from a Vanilla Player's Perspective, sorry if it's a little too detailed, but my Test Players needed this _[eg: Starts with the differences between Vanilla and Modded (JEI & JourneyMap Explanations and such) ]_.
 - It is written as a guide on each Mod in the Pack as well as the timing/order I felt the Player should attempt achieving each Questbook Entry.
+- Questbook was written from a Vanilla Player's Perspective, sorry if it's a little too detailed, but my Test Players needed this _[eg: Starts with the differences between Vanilla and Modded (JEI & JourneyMap Explanations and such) ]_.
